@@ -1,7 +1,8 @@
 
-# AppleScript for Randomizing an Apple Music Playlist
+# Apple Music Tools
+This project includes scripts for managing Apple Muisc Library.
 
-This script allows you to randomize the order of tracks in an Apple Music playlist by duplicating the playlist with a shuffled order, deleting the original playlist, and renaming the new playlist to the original name.
+1.  Randomizer - randomize the order of tracks in an Apple Music playlist by duplicating the playlist with a shuffled order, deleting the original playlist, and renaming the new playlist to the original name.
 
 ---
 
